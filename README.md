@@ -1,27 +1,27 @@
 ### FULL STACK DEVELOPER 👋
 
 ### Front End
-HTML5
-CSS3
-JavaScript (EcmaScript 6)
-React
-React-Native
-Redux
-BootStrap
-SASS
+- HTML5
+- CSS3
+- JavaScript (EcmaScript 6)
+- React
+- React-Native
+- Redux
+- BootStrap
+- SASS
 
 ### Back End
-Node.js
-Express.js
-Sequelize ORM
-PostgreSQL
-Firebase
-MongoDB
-GraphQL
+- Node.js
+- Express.js
+- Sequelize ORM
+- PostgreSQL
+- Firebase
+- MongoDB
+- GraphQL
 
 ### Other Skills
-GIT
-SCRUM
+- GIT
+- SCRUM
 
 <!--
 **maxidefilippis/maxidefilippis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
