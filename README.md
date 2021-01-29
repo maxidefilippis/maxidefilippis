@@ -1,6 +1,6 @@
 ### FULL STACK DEVELOPER⚡
 
-### Front End
+### Front-End
 - HTML5
 - CSS3
 - JavaScript (EcmaScript 6)
@@ -10,7 +10,7 @@
 - BootStrap
 - SASS
 
-### Back End
+### Back-End
 - Node.js
 - Express.js
 - Sequelize ORM
