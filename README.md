@@ -24,6 +24,10 @@
 - GIT
 - SCRUM
 
+### GitHub Stats
+[![maxidefilippis's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxidefilippis)](https://github.com/maxidefilippis/github-readme-stats)
+
+
 <!--
 **maxidefilippis/maxidefilippis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
