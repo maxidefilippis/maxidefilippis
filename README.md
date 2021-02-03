@@ -27,6 +27,7 @@
 - GIT
 - SCRUM
 
+<br>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -52,10 +53,9 @@
 
 ### GitHub Stats
 
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=maxidefilippis" alt="maxidefilippis" /></p>
 [![maxidefilippis's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxidefilippis)](https://github.com/maxidefilippis/github-readme-stats)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxidefilippis" alt="maxidefilippis" /></a> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxidefilippis&" alt="maxidefilippis" /></p>
-<br><br><br><br><br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxidefilippis&show_icons=true&locale=en&layout=compact" alt="maxidefilippis" /></p>
 
 
