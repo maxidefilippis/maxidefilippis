@@ -71,7 +71,7 @@
 <p align="left"> <a href="https://twitter.com/maxidefilippis" target="blank"><img src="https://img.shields.io/twitter/follow/maxidefilippis?logo=twitter&style=for-the-badge" alt="maxidefilippis" /></a> </p>
 
 
-<br><br>
+<br>
 Thanks for your visit!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxidefilippis&label=Profile%20views&color=0e75b6&style=flat" alt="maxidefilippis" /> </p>
 
