@@ -53,10 +53,12 @@
 
 ### GitHub Stats
 
+![maxidefilippis's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxidefilippis&hide=["contribs","prs"])
+
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=maxidefilippis" alt="maxidefilippis" /></p>
-[![maxidefilippis's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxidefilippis)](https://github.com/maxidefilippis/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxidefilippis&" alt="maxidefilippis" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxidefilippis&show_icons=true&locale=en&layout=compact" alt="maxidefilippis" /></p>
+<br><br><br><br><br><br>
 
 
 ***
@@ -70,8 +72,7 @@
 <p align="left"> <a href="https://twitter.com/maxidefilippis" target="blank"><img src="https://img.shields.io/twitter/follow/maxidefilippis?logo=twitter&style=for-the-badge" alt="maxidefilippis" /></a> </p>
 
 
-***
-
+<br><br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxidefilippis&label=Profile%20views&color=0e75b6&style=flat" alt="maxidefilippis" /> </p>
 Thanks for your visit!
