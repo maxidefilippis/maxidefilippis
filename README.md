@@ -1,9 +1,9 @@
-### Maxi De Filippis | FULL STACK DEVELOPER⚡
+### MAXI DE FILIPPIS  |  FULL STACK DEVELOPER⚡
 
 
-## < Languages and Tools />
+### Languages and Tools
 
-### Front-End
+#### Front-End
 - HTML5
 - CSS3
 - JavaScript (EcmaScript 6)
@@ -13,7 +13,7 @@
 - BootStrap
 - SASS
 
-### Back-End
+#### Back-End
 - Node.js
 - Express.js
 - Sequelize ORM
@@ -22,7 +22,7 @@
 - MongoDB
 - GraphQL
 
-### Other Skills
+#### Other Skills
 - GIT
 - SCRUM
 
