@@ -1,4 +1,4 @@
-### MAXI DE FILIPPIS  |  FULL STACK DEVELOPER⚡
+### MAXI DE FILIPPIS  -  FULL STACK DEVELOPER⚡
 
 
 ### Languages and Tools
