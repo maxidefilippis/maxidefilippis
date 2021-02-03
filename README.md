@@ -1,8 +1,7 @@
-### Hi, I'm Maxi De Filippis😄
-### FULL STACK DEVELOPER⚡
+### Hi, I'm Maxi De Filippis😄 - ### FULL STACK DEVELOPER⚡
 
 
-<h3 align="left">Languages and Tools:</h3>
+## < Languages and Tools />
 
 ### Front-End
 - HTML5
