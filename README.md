@@ -1,5 +1,5 @@
 ## Maxi De Filippis 
-### FULL STACK DEVELOPER⚡
+### FULL STACK DEVELOPER👩‍💻
 
 
 ### Languages and Tools
