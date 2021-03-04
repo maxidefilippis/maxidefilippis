@@ -2,7 +2,7 @@
 ### FULL STACK DEVELOPER👩‍💻
 
 
-### Languages and Tools
+### Languages and Tools 🛠️
 
 #### Front-End
 - HTML5 - CSS3  - JavaScript (ES6) - React - React-Native - Redux - BootStrap - SASS 
