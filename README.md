@@ -11,7 +11,7 @@
 - Node.js - Express.js - Sequelize ORM - PostgreSQL - Firebase - MongoDB - GraphQL - Passport
 
 #### Other Skills
-- GIT - SCRUM - Jira - Trello
+- GIT - SCRUM - Jira - Trello - M. Teams
 
 <br>
 <p align="left"> 
