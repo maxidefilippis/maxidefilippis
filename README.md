@@ -4,14 +4,14 @@
 
 ### Languages and Tools 🛠️
 
-#### Front-End
+#### Front-End🌟
 - HTML5 - CSS3  - JavaScript (ES6) - React - React-Native - Redux - BootStrap - SASS - BEM
 
-#### Back-End
+#### Back-End🔩
 - Node.js - Express.js - Sequelize ORM - PostgreSQL - Firebase - MongoDB - GraphQL - Passport
 
-#### Other Skills
-- GIT - SCRUM - Jira - Trello - M. Teams
+#### Other Skills⚽
+- GIT - SCRUM - Jira
 
 <br>
 <p align="left"> 
@@ -37,7 +37,7 @@
 ***
 
 
-### GitHub Stats
+### GitHub Stats 
 
 ![maxidefilippis's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxidefilippis&hide=["contribs","prs"])
 
