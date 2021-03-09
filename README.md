@@ -10,8 +10,8 @@
 #### Back-End🔩
 - Node.js - Express.js - Sequelize ORM - PostgreSQL - Firebase - MongoDB - GraphQL - Passport
 
-#### Other Skills⚽
-- GIT - SCRUM - Jira - Trello
+#### Other Skills
+- GIT - SCRUM - Jira
 
 <br>
 <p align="left"> 
