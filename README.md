@@ -5,7 +5,7 @@
 ### Languages and Tools 🛠️
 
 #### Front-End🌟
-- HTML5 - CSS3  - JavaScript (ES6) - React - React-Native - Redux - BootStrap - SASS - LESS - BEM
+- HTML5 - CSS3  - JavaScript (ES6) - Svelt - React - React-Native - Redux - BootStrap - SASS - LESS - BEM
 
 #### Back-End🔩
 - Node - Express - Sequelize ORM - PostgreSQL - Firebase - MongoDB - GraphQL - Passport
