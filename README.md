@@ -8,7 +8,7 @@
 - HTML5 - CSS3  - JavaScript (ES6) - TypeScript - React - React-Native - Redux - BootStrap - SASS - LESS - BEM
 
 #### Back-End🔩
-- Node - Express - Sequelize ORM - PostgreSQL - Firebase - MongoDB - GraphQL - Passport
+- Node - Express - Sequelize ORM - PostgreSQL - Firebase - MongoDB - GraphQL - Passport - Puppeteer
 
 #### Other Skills💪🏼
 - GIT - SCRUM - Jira - Trello
