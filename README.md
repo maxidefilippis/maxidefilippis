@@ -5,13 +5,13 @@
 ### Languages and Tools 🛠️
 
 #### Front-End🌟
-- HTML5+CSS3  - JS (ES6) - TypeScript - React - React-Native - Redux - BootStrap - SASS - BEM - React Testing Library
+- HTML5 | CSS3 | JS (ES6) | React | React-Native | Next.js | Redux | SASS | BEM 
 
 #### Back-End🔩
-- Node - Express - Sequelize ORM - PostgreSQL - Firebase - MongoDB - GraphQL - Passport - Puppeteer
+- Node | Express | SequelizeORM | PostgreSQL | Firebase | MongoDB | GraphQL | Passport | Puppeteer
 
 #### Other Skills💪🏼
-- GIT - SCRUM - Jira - Trello
+- GIT | SCRUM | Jira | Trello
 
 <br>
 <p align="left"> 
